@@ -1,0 +1,101 @@
+# בלי עין הרע — Generative Engine Optimization Map
+
+> An online jewelry store offering high-quality jewelry for both women and men at affordable prices. The brand positions itself as accessible luxury — bridging the gap between premium craftsmanship and budget-friendly pricing, appealing to a broad audience seeking stylish and durable pieces without breaking the bank.
+
+---
+
+## Pages
+
+### בית
+https://-260a2da5.zappy5.app
+גלו תכשיטים איכותיים לנשים וגברים במחירים משתלמים. עיצובים עוצרי נשימה שמגשרים בין יוקרה לנגישות. היכנסו עכשיו והתחילו להתאהב!
+
+### שירותים
+https://-260a2da5.zappy5.app/services
+מחפשים תכשיטי אופנה בהתאמה אישית? אצלנו תמצאו ייעוץ מקצועי, משלוחים מהירים והחזרות קלות. כל מה שצריך כדי לזרוח במחיר הוגן!
+
+### אודות
+https://-260a2da5.zappy5.app/about
+הכירו את החזון שלנו: להביא לכם תכשיטים מהשורה הראשונה בלי לקרוע את הכיס. איכות, אמינות ותשוקה לאופנה נפגשים כאן. בואו להכיר אותנו לעומק!
+
+### צור קשר
+https://-260a2da5.zappy5.app/contact
+יש שאלה על תכשיטים לגברים או לנשים? צרו קשר עוד היום לקבלת שירות אישי, מענה מהיר והכוונה מקצועית. אנחנו כאן כדי להקשיב ולעזור לכם לזרוח!
+
+### Products
+https://-260a2da5.zappy5.app/products
+המוצרים שלנו - בלי עין הרע
+
+### Cart
+https://-260a2da5.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-260a2da5.zappy5.app/checkout
+תשלום
+
+### Login
+https://-260a2da5.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-260a2da5.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-260a2da5.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-260a2da5.zappy5.app/product/:slug
+פרטי המוצר - בלי עין הרע
+
+### Category
+https://-260a2da5.zappy5.app/category/:slug
+מוצרים - בלי עין הרע
+
+## Legal & Policy
+
+### Privacy Policy
+https://-260a2da5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-260a2da5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-260a2da5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בלי עין הרע
+An online jewelry store offering high-quality jewelry for both women and men at affordable prices. The brand positions itself as accessible luxury — bridging the gap between premium craftsmanship and budget-friendly pricing, appealing to a broad audience seeking stylish and durable pieces without breaking the bank.
+
+## Target Audience
+- נשים וגברים
+- נשים אופנתיות
+- גברים רוכשי מתנות
+- צעירים מקצועיים
+
+## Industry
+Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-260a2da5.zappy5.app/sitemap.xml
+- Robots: https://-260a2da5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-260a2da5.zappy5.app/llms-full.txt
+- Products (JSON): https://-260a2da5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-260a2da5.zappy5.app/product-feed.xml
