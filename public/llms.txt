@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-260a2da5.zappy5.app
+https://example.com
 גלו תכשיטים איכותיים לנשים וגברים במחירים משתלמים. עיצובים עוצרי נשימה שמגשרים בין יוקרה לנגישות. היכנסו עכשיו והתחילו להתאהב!
 
 ### שירותים
-https://-260a2da5.zappy5.app/services
+https://example.com/services
 מחפשים תכשיטי אופנה בהתאמה אישית? אצלנו תמצאו ייעוץ מקצועי, משלוחים מהירים והחזרות קלות. כל מה שצריך כדי לזרוח במחיר הוגן!
 
 ### אודות
-https://-260a2da5.zappy5.app/about
+https://example.com/about
 הכירו את החזון שלנו: להביא לכם תכשיטים מהשורה הראשונה בלי לקרוע את הכיס. איכות, אמינות ותשוקה לאופנה נפגשים כאן. בואו להכיר אותנו לעומק!
 
 ### צור קשר
-https://-260a2da5.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תכשיטים לגברים או לנשים? צרו קשר עוד היום לקבלת שירות אישי, מענה מהיר והכוונה מקצועית. אנחנו כאן כדי להקשיב ולעזור לכם לזרוח!
 
 ### Products
-https://-260a2da5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בלי עין הרע
 
 ### Cart
-https://-260a2da5.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-260a2da5.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-260a2da5.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-260a2da5.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-260a2da5.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-260a2da5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בלי עין הרע
 
 ### Category
-https://-260a2da5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בלי עין הרע
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-260a2da5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-260a2da5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-260a2da5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ Jewelry E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-260a2da5.zappy5.app/sitemap.xml
-- Robots: https://-260a2da5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-260a2da5.zappy5.app/llms-full.txt
-- Products (JSON): https://-260a2da5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-260a2da5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
